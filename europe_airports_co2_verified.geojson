@@ -1,0 +1,6269 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2019,
+        "co2": 769.2,
+        "FLT_TOT_1": 509185.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2020,
+        "co2": 374.85,
+        "FLT_TOT_1": 235790.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2021,
+        "co2": 453.01,
+        "FLT_TOT_1": 279874.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2022,
+        "co2": 637.09,
+        "FLT_TOT_1": 415813.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2023,
+        "co2": 647.82,
+        "FLT_TOT_1": 458183.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7639,
+          52.3086
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Amsterdam",
+        "IATA": "AMS",
+        "STATE_NAME": "Netherlands",
+        "YEAR": 2024,
+        "co2": 650.41,
+        "FLT_TOT_1": 293709.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2019,
+        "co2": 304.58,
+        "FLT_TOT_1": 203062.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2020,
+        "co2": 87.74,
+        "FLT_TOT_1": 63839.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2021,
+        "co2": 182.61,
+        "FLT_TOT_1": 133038.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2022,
+        "co2": 238.08,
+        "FLT_TOT_1": 190775.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2023,
+        "co2": 294.03,
+        "FLT_TOT_1": 218995.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.8003,
+          36.8987
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Antalya",
+        "IATA": "AYT",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2024,
+        "co2": 296.68,
+        "FLT_TOT_1": 167703.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2019,
+        "co2": 235.09,
+        "FLT_TOT_1": 220639.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2020,
+        "co2": 95.67,
+        "FLT_TOT_1": 109145.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2021,
+        "co2": 141.08,
+        "FLT_TOT_1": 153061.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2022,
+        "co2": 202.51,
+        "FLT_TOT_1": 207507.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2023,
+        "co2": 220.88,
+        "FLT_TOT_1": 236540.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9474,
+          37.9364
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Athens",
+        "IATA": "ATH",
+        "STATE_NAME": "Greece",
+        "YEAR": 2024,
+        "co2": 222.65,
+        "FLT_TOT_1": 173708.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2019,
+        "co2": 467.11,
+        "FLT_TOT_1": 344508.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2020,
+        "co2": 149.98,
+        "FLT_TOT_1": 122585.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2021,
+        "co2": 189.88,
+        "FLT_TOT_1": 163694.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2022,
+        "co2": 347.94,
+        "FLT_TOT_1": 283444.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2023,
+        "co2": 422.46,
+        "FLT_TOT_1": 318977.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0785,
+          41.2974
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Barcelona",
+        "IATA": "BCN",
+        "STATE_NAME": "Spain",
+        "YEAR": 2024,
+        "co2": 437.24,
+        "FLT_TOT_1": 212363.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2019,
+        "co2": 59.95,
+        "FLT_TOT_1": 70978.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2020,
+        "co2": 25.89,
+        "FLT_TOT_1": 34129.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2021,
+        "co2": 39.38,
+        "FLT_TOT_1": 49367.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2022,
+        "co2": 53.72,
+        "FLT_TOT_1": 66121.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2023,
+        "co2": 71.78,
+        "FLT_TOT_1": 83756.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3091,
+          44.8184
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Belgrade",
+        "IATA": "BEG",
+        "STATE_NAME": "Serbia",
+        "YEAR": 2024,
+        "co2": 72.78,
+        "FLT_TOT_1": 54875.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2019,
+        "co2": 91.13,
+        "FLT_TOT_1": 90231.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2020,
+        "co2": 39.85,
+        "FLT_TOT_1": 43167.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2021,
+        "co2": 104.0,
+        "FLT_TOT_1": 103914.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2022,
+        "co2": 169.77,
+        "FLT_TOT_1": 162002.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2023,
+        "co2": 202.89,
+        "FLT_TOT_1": 174361.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.5033,
+          52.3667
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Berlin Brandenburg",
+        "IATA": "BER",
+        "STATE_NAME": "Germany",
+        "YEAR": 2024,
+        "co2": 204.1,
+        "FLT_TOT_1": 116670.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2019,
+        "co2": 20.48,
+        "FLT_TOT_1": 22593.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2020,
+        "co2": 7.13,
+        "FLT_TOT_1": 9053.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2021,
+        "co2": 7.97,
+        "FLT_TOT_1": 10980.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2022,
+        "co2": 13.58,
+        "FLT_TOT_1": 17186.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2023,
+        "co2": 18.33,
+        "FLT_TOT_1": 19382.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127,
+          48.1702
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bratislava",
+        "IATA": "BTS",
+        "STATE_NAME": "Slovakia",
+        "YEAR": 2024,
+        "co2": 18.59,
+        "FLT_TOT_1": 14552.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2019,
+        "co2": 281.16,
+        "FLT_TOT_1": 229281.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2020,
+        "co2": 127.78,
+        "FLT_TOT_1": 91342.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2021,
+        "co2": 169.01,
+        "FLT_TOT_1": 114144.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2022,
+        "co2": 232.23,
+        "FLT_TOT_1": 174224.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2023,
+        "co2": 247.88,
+        "FLT_TOT_1": 187554.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4844,
+          50.9014
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Brussels",
+        "IATA": "BRU",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2024,
+        "co2": 249.62,
+        "FLT_TOT_1": 119460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2019,
+        "co2": 136.95,
+        "FLT_TOT_1": 122831.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2020,
+        "co2": 55.11,
+        "FLT_TOT_1": 51751.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2021,
+        "co2": 68.1,
+        "FLT_TOT_1": 71712.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2022,
+        "co2": 95.93,
+        "FLT_TOT_1": 101715.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2023,
+        "co2": 111.47,
+        "FLT_TOT_1": 111311.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.085,
+          44.5711
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Bucharest Otopeni",
+        "IATA": "OTP",
+        "STATE_NAME": "Romania",
+        "YEAR": 2024,
+        "co2": 112.58,
+        "FLT_TOT_1": 73634.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2019,
+        "co2": 134.85,
+        "FLT_TOT_1": 122132.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2020,
+        "co2": 49.97,
+        "FLT_TOT_1": 47770.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2021,
+        "co2": 58.23,
+        "FLT_TOT_1": 54543.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2022,
+        "co2": 105.51,
+        "FLT_TOT_1": 97982.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2023,
+        "co2": 114.31,
+        "FLT_TOT_1": 107397.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2611,
+          47.4298
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Budapest",
+        "IATA": "BUD",
+        "STATE_NAME": "Hungary",
+        "YEAR": 2024,
+        "co2": 115.8,
+        "FLT_TOT_1": 79817.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2019,
+        "co2": 53.72,
+        "FLT_TOT_1": 93889.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2020,
+        "co2": 20.88,
+        "FLT_TOT_1": 34249.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2021,
+        "co2": 29.28,
+        "FLT_TOT_1": 46907.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2022,
+        "co2": 39.93,
+        "FLT_TOT_1": 69167.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2023,
+        "co2": 47.91,
+        "FLT_TOT_1": 82377.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.5898,
+          33.3675
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Casablanca",
+        "IATA": "CMN",
+        "STATE_NAME": "Morocco",
+        "YEAR": 2024,
+        "co2": 48.43,
+        "FLT_TOT_1": 54564.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2019,
+        "co2": 25.76,
+        "FLT_TOT_1": 27354.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2020,
+        "co2": 9.4,
+        "FLT_TOT_1": 9828.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2021,
+        "co2": 16.28,
+        "FLT_TOT_1": 16799.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2022,
+        "co2": 19.06,
+        "FLT_TOT_1": 19665.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2023,
+        "co2": 22.41,
+        "FLT_TOT_1": 24040.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.9309,
+          46.9277
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Chisinau",
+        "IATA": "KIV",
+        "STATE_NAME": "Moldova",
+        "YEAR": 2024,
+        "co2": 22.75,
+        "FLT_TOT_1": 22017.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2019,
+        "co2": 296.73,
+        "FLT_TOT_1": 263434.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2020,
+        "co2": 102.87,
+        "FLT_TOT_1": 98204.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2021,
+        "co2": 121.3,
+        "FLT_TOT_1": 109870.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2022,
+        "co2": 221.8,
+        "FLT_TOT_1": 202210.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2023,
+        "co2": 259.36,
+        "FLT_TOT_1": 227333.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.6508,
+          55.618
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Copenhagen",
+        "IATA": "CPH",
+        "STATE_NAME": "Denmark",
+        "YEAR": 2024,
+        "co2": 261.18,
+        "FLT_TOT_1": 147693.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2019,
+        "co2": 320.96,
+        "FLT_TOT_1": 238044.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2020,
+        "co2": 106.37,
+        "FLT_TOT_1": 86885.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2021,
+        "co2": 108.3,
+        "FLT_TOT_1": 91015.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2022,
+        "co2": 257.28,
+        "FLT_TOT_1": 211367.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2023,
+        "co2": 302.67,
+        "FLT_TOT_1": 240694.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2701,
+          53.4213
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dublin",
+        "IATA": "DUB",
+        "STATE_NAME": "Ireland",
+        "YEAR": 2024,
+        "co2": 303.58,
+        "FLT_TOT_1": 147984.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2019,
+        "co2": 239.97,
+        "FLT_TOT_1": 225541.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2020,
+        "co2": 77.24,
+        "FLT_TOT_1": 78702.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2021,
+        "co2": 83.45,
+        "FLT_TOT_1": 82021.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2022,
+        "co2": 151.94,
+        "FLT_TOT_1": 140246.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2023,
+        "co2": 167.64,
+        "FLT_TOT_1": 151312.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7668,
+          51.2803
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Dusseldorf",
+        "IATA": "DUS",
+        "STATE_NAME": "Germany",
+        "YEAR": 2024,
+        "co2": 168.65,
+        "FLT_TOT_1": 97484.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2019,
+        "co2": 911.87,
+        "FLT_TOT_1": 513866.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2020,
+        "co2": 393.41,
+        "FLT_TOT_1": 212365.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2021,
+        "co2": 486.61,
+        "FLT_TOT_1": 261966.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2022,
+        "co2": 702.42,
+        "FLT_TOT_1": 382135.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2023,
+        "co2": 736.54,
+        "FLT_TOT_1": 430389.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5622,
+          50.0379
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Frankfurt",
+        "IATA": "FRA",
+        "STATE_NAME": "Germany",
+        "YEAR": 2024,
+        "co2": 740.96,
+        "FLT_TOT_1": 268113.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2019,
+        "co2": 163.61,
+        "FLT_TOT_1": 179115.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2020,
+        "co2": 63.44,
+        "FLT_TOT_1": 78706.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2021,
+        "co2": 72.2,
+        "FLT_TOT_1": 91512.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2022,
+        "co2": 142.9,
+        "FLT_TOT_1": 155646.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2023,
+        "co2": 152.31,
+        "FLT_TOT_1": 166002.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.109,
+          46.2381
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Geneva",
+        "IATA": "GVA",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2024,
+        "co2": 152.61,
+        "FLT_TOT_1": 100860.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2019,
+        "co2": 206.48,
+        "FLT_TOT_1": 194634.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2020,
+        "co2": 67.84,
+        "FLT_TOT_1": 72789.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2021,
+        "co2": 63.62,
+        "FLT_TOT_1": 72296.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2022,
+        "co2": 136.67,
+        "FLT_TOT_1": 132701.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2023,
+        "co2": 151.02,
+        "FLT_TOT_1": 141858.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.9633,
+          60.3172
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Helsinki",
+        "IATA": "HEL",
+        "STATE_NAME": "Finland",
+        "YEAR": 2024,
+        "co2": 152.08,
+        "FLT_TOT_1": 92286.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2019,
+        "co2": 788.06,
+        "FLT_TOT_1": 326125.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2020,
+        "co2": 390.75,
+        "FLT_TOT_1": 184527.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2021,
+        "co2": 525.65,
+        "FLT_TOT_1": 277983.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2022,
+        "co2": 838.62,
+        "FLT_TOT_1": 422062.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2023,
+        "co2": 1065.05,
+        "FLT_TOT_1": 502051.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.729324,
+          41.276901
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul",
+        "IATA": "IST",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2024,
+        "co2": 1067.53,
+        "FLT_TOT_1": 308192.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2019,
+        "co2": 274.61,
+        "FLT_TOT_1": 228616.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2020,
+        "co2": 141.11,
+        "FLT_TOT_1": 124150.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2021,
+        "co2": 196.33,
+        "FLT_TOT_1": 178024.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2022,
+        "co2": 209.0,
+        "FLT_TOT_1": 194144.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2023,
+        "co2": 268.1,
+        "FLT_TOT_1": 220872.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.309168,
+          40.898335
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Istanbul Sabiha Gokcen",
+        "IATA": "SAW",
+        "STATE_NAME": "Turkey",
+        "YEAR": 2024,
+        "co2": 270.52,
+        "FLT_TOT_1": 140980.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2019,
+        "co2": 81.44,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2020,
+        "co2": 32.83,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2021,
+        "co2": 32.33,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2022,
+        "co2": 57.4,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2023,
+        "co2": 68.66,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.6056,
+          63.985
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Keflavik",
+        "IATA": "KEF",
+        "STATE_NAME": NaN,
+        "YEAR": 2024,
+        "co2": 68.93,
+        "FLT_TOT_1": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2019,
+        "co2": 79.49,
+        "FLT_TOT_1": 60657.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2020,
+        "co2": 26.4,
+        "FLT_TOT_1": 24243.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2021,
+        "co2": 40.97,
+        "FLT_TOT_1": 38018.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2022,
+        "co2": 52.32,
+        "FLT_TOT_1": 49485.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2023,
+        "co2": 69.46,
+        "FLT_TOT_1": 62509.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          33.6249,
+          34.8751
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Larnaca",
+        "IATA": "LCA",
+        "STATE_NAME": "Cyprus",
+        "YEAR": 2024,
+        "co2": 70.29,
+        "FLT_TOT_1": 46894.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2019,
+        "co2": 77.51,
+        "FLT_TOT_1": 34876.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2020,
+        "co2": 87.46,
+        "FLT_TOT_1": 36699.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2021,
+        "co2": 103.63,
+        "FLT_TOT_1": 41908.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2022,
+        "co2": 82.47,
+        "FLT_TOT_1": 33157.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2023,
+        "co2": 74.9,
+        "FLT_TOT_1": 29265.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4432,
+          50.6374
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Liege",
+        "IATA": "LGG",
+        "STATE_NAME": "Belgium",
+        "YEAR": 2024,
+        "co2": 75.42,
+        "FLT_TOT_1": 19601.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2019,
+        "co2": 276.18,
+        "FLT_TOT_1": 220938.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2020,
+        "co2": 101.72,
+        "FLT_TOT_1": 89246.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2021,
+        "co2": 130.1,
+        "FLT_TOT_1": 115380.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2022,
+        "co2": 244.24,
+        "FLT_TOT_1": 202609.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2023,
+        "co2": 284.0,
+        "FLT_TOT_1": 226762.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.1342,
+          38.7742
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Lisbon",
+        "IATA": "LIS",
+        "STATE_NAME": "Portugal",
+        "YEAR": 2024,
+        "co2": 291.95,
+        "FLT_TOT_1": 138810.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2019,
+        "co2": 18.36,
+        "FLT_TOT_1": 27935.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2020,
+        "co2": 5.14,
+        "FLT_TOT_1": 10027.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2021,
+        "co2": 6.76,
+        "FLT_TOT_1": 12975.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2022,
+        "co2": 10.99,
+        "FLT_TOT_1": 17563.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2023,
+        "co2": 13.71,
+        "FLT_TOT_1": 19673.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.456,
+          46.2237
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Ljubljana",
+        "IATA": "LJU",
+        "STATE_NAME": "Slovenia",
+        "YEAR": 2024,
+        "co2": 13.9,
+        "FLT_TOT_1": 13308.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2019,
+        "co2": 445.72,
+        "FLT_TOT_1": 284916.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2020,
+        "co2": 110.1,
+        "FLT_TOT_1": 80301.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2021,
+        "co2": 62.29,
+        "FLT_TOT_1": 55843.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2022,
+        "co2": 266.32,
+        "FLT_TOT_1": 217653.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2023,
+        "co2": 344.43,
+        "FLT_TOT_1": 256936.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1903,
+          51.1481
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Gatwick",
+        "IATA": "LGW",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2024,
+        "co2": 346.14,
+        "FLT_TOT_1": 165544.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2019,
+        "co2": 1200.52,
+        "FLT_TOT_1": 478081.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2020,
+        "co2": 494.23,
+        "FLT_TOT_1": 204752.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2021,
+        "co2": 413.47,
+        "FLT_TOT_1": 195340.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2022,
+        "co2": 825.18,
+        "FLT_TOT_1": 380384.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2023,
+        "co2": 1100.43,
+        "FLT_TOT_1": 456739.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.4543,
+          51.47
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Heathrow",
+        "IATA": "LHR",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2024,
+        "co2": 1105.93,
+        "FLT_TOT_1": 282221.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2019,
+        "co2": 251.05,
+        "FLT_TOT_1": 198511.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2020,
+        "co2": 108.75,
+        "FLT_TOT_1": 85394.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2021,
+        "co2": 110.96,
+        "FLT_TOT_1": 92542.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2022,
+        "co2": 210.46,
+        "FLT_TOT_1": 175935.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2023,
+        "co2": 244.88,
+        "FLT_TOT_1": 194595.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.235,
+          51.885
+        ]
+      },
+      "properties": {
+        "APT_NAME": "London Stansted",
+        "IATA": "STN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2024,
+        "co2": 246.11,
+        "FLT_TOT_1": 123619.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2019,
+        "co2": 99.7,
+        "FLT_TOT_1": 76300.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2020,
+        "co2": 76.46,
+        "FLT_TOT_1": 40335.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2021,
+        "co2": 89.09,
+        "FLT_TOT_1": 47684.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2022,
+        "co2": 98.9,
+        "FLT_TOT_1": 69795.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2023,
+        "co2": 94.91,
+        "FLT_TOT_1": 72031.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.2044,
+          49.6233
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Luxembourg",
+        "IATA": "LUX",
+        "STATE_NAME": "Luxembourg",
+        "YEAR": 2024,
+        "co2": 95.57,
+        "FLT_TOT_1": 43621.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2019,
+        "co2": 656.64,
+        "FLT_TOT_1": 426185.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2020,
+        "co2": 245.83,
+        "FLT_TOT_1": 165650.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2021,
+        "co2": 307.36,
+        "FLT_TOT_1": 217547.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2022,
+        "co2": 515.13,
+        "FLT_TOT_1": 351953.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2023,
+        "co2": 591.95,
+        "FLT_TOT_1": 389214.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5608,
+          40.4722
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Madrid Barajas",
+        "IATA": "MAD",
+        "STATE_NAME": "Spain",
+        "YEAR": 2024,
+        "co2": 612.66,
+        "FLT_TOT_1": 252382.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2019,
+        "co2": 145.65,
+        "FLT_TOT_1": 140721.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2020,
+        "co2": 50.67,
+        "FLT_TOT_1": 56897.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2021,
+        "co2": 76.05,
+        "FLT_TOT_1": 87463.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2022,
+        "co2": 137.27,
+        "FLT_TOT_1": 139418.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2023,
+        "co2": 162.66,
+        "FLT_TOT_1": 156939.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4991,
+          36.6749
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malaga",
+        "IATA": "AGP",
+        "STATE_NAME": "Spain",
+        "YEAR": 2024,
+        "co2": 168.35,
+        "FLT_TOT_1": 107948.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2019,
+        "co2": 58.83,
+        "FLT_TOT_1": 58181.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2020,
+        "co2": 21.75,
+        "FLT_TOT_1": 24307.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2021,
+        "co2": 30.21,
+        "FLT_TOT_1": 32499.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2022,
+        "co2": 47.5,
+        "FLT_TOT_1": 48476.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2023,
+        "co2": 55.17,
+        "FLT_TOT_1": 59196.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4775,
+          35.8575
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Malta",
+        "IATA": "MLA",
+        "STATE_NAME": "Malta",
+        "YEAR": 2024,
+        "co2": 55.72,
+        "FLT_TOT_1": 42603.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2019,
+        "co2": 267.61,
+        "FLT_TOT_1": 202935.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2020,
+        "co2": 79.2,
+        "FLT_TOT_1": 66548.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2021,
+        "co2": 74.05,
+        "FLT_TOT_1": 66648.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2022,
+        "co2": 200.67,
+        "FLT_TOT_1": 158521.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2023,
+        "co2": 230.65,
+        "FLT_TOT_1": 180016.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.273,
+          53.3659
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Manchester",
+        "IATA": "MAN",
+        "STATE_NAME": "United Kingdom",
+        "YEAR": 2024,
+        "co2": 231.81,
+        "FLT_TOT_1": 124025.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2019,
+        "co2": 330.64,
+        "FLT_TOT_1": 233978.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2020,
+        "co2": 144.56,
+        "FLT_TOT_1": 92753.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2021,
+        "co2": 185.71,
+        "FLT_TOT_1": 118460.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2022,
+        "co2": 265.36,
+        "FLT_TOT_1": 186678.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2023,
+        "co2": 290.28,
+        "FLT_TOT_1": 202087.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.7281,
+          45.6306
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Milan Malpensa",
+        "IATA": "MXP",
+        "STATE_NAME": "Italy",
+        "YEAR": 2024,
+        "co2": 290.28,
+        "FLT_TOT_1": 133587.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2019,
+        "co2": 520.42,
+        "FLT_TOT_1": 414222.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2020,
+        "co2": 157.69,
+        "FLT_TOT_1": 144247.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2021,
+        "co2": 158.28,
+        "FLT_TOT_1": 150437.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2022,
+        "co2": 333.14,
+        "FLT_TOT_1": 282102.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2023,
+        "co2": 389.27,
+        "FLT_TOT_1": 299771.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.7861,
+          48.3538
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Munich",
+        "IATA": "MUC",
+        "STATE_NAME": "Germany",
+        "YEAR": 2024,
+        "co2": 391.6,
+        "FLT_TOT_1": 199294.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2019,
+        "co2": 129.53,
+        "FLT_TOT_1": 145645.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2020,
+        "co2": 48.17,
+        "FLT_TOT_1": 66318.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2021,
+        "co2": 67.64,
+        "FLT_TOT_1": 94252.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2022,
+        "co2": 114.58,
+        "FLT_TOT_1": 135138.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2023,
+        "co2": 124.43,
+        "FLT_TOT_1": 145941.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.215,
+          43.6653
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Nice",
+        "IATA": "NCE",
+        "STATE_NAME": "France",
+        "YEAR": 2024,
+        "co2": 125.31,
+        "FLT_TOT_1": 96343.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2019,
+        "co2": 276.27,
+        "FLT_TOT_1": 251872.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2020,
+        "co2": 125.33,
+        "FLT_TOT_1": 122553.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2021,
+        "co2": 128.34,
+        "FLT_TOT_1": 123783.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2022,
+        "co2": 223.78,
+        "FLT_TOT_1": 205569.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2023,
+        "co2": 231.38,
+        "FLT_TOT_1": 215993.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.1004,
+          60.1939
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Oslo",
+        "IATA": "OSL",
+        "STATE_NAME": "Norway",
+        "YEAR": 2024,
+        "co2": 233.24,
+        "FLT_TOT_1": 133989.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2019,
+        "co2": 222.79,
+        "FLT_TOT_1": 217096.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2020,
+        "co2": 66.4,
+        "FLT_TOT_1": 76432.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2021,
+        "co2": 134.32,
+        "FLT_TOT_1": 140536.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2022,
+        "co2": 230.74,
+        "FLT_TOT_1": 220145.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2023,
+        "co2": 225.41,
+        "FLT_TOT_1": 227838.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7388,
+          39.5517
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Palma de Mallorca",
+        "IATA": "PMI",
+        "STATE_NAME": "Spain",
+        "YEAR": 2024,
+        "co2": 233.3,
+        "FLT_TOT_1": 164672.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2019,
+        "co2": 930.18,
+        "FLT_TOT_1": 504887.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2020,
+        "co2": 419.81,
+        "FLT_TOT_1": 220741.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2021,
+        "co2": 471.95,
+        "FLT_TOT_1": 256094.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2022,
+        "co2": 756.98,
+        "FLT_TOT_1": 409376.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2023,
+        "co2": 801.07,
+        "FLT_TOT_1": 455146.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5479,
+          49.0097
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Charles de Gaulle",
+        "IATA": "CDG",
+        "STATE_NAME": "France",
+        "YEAR": 2024,
+        "co2": 806.67,
+        "FLT_TOT_1": 288321.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2019,
+        "co2": 277.93,
+        "FLT_TOT_1": 221602.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2020,
+        "co2": 106.0,
+        "FLT_TOT_1": 84666.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2021,
+        "co2": 156.36,
+        "FLT_TOT_1": 120598.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2022,
+        "co2": 260.94,
+        "FLT_TOT_1": 198721.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2023,
+        "co2": 265.19,
+        "FLT_TOT_1": 208708.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.379,
+          48.7286
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Paris Orly",
+        "IATA": "ORY",
+        "STATE_NAME": "France",
+        "YEAR": 2024,
+        "co2": 267.05,
+        "FLT_TOT_1": 126877.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2019,
+        "co2": 11.44,
+        "FLT_TOT_1": 14557.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2020,
+        "co2": 4.12,
+        "FLT_TOT_1": 5816.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2021,
+        "co2": 6.27,
+        "FLT_TOT_1": 8232.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2022,
+        "co2": 10.42,
+        "FLT_TOT_1": 12182.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2023,
+        "co2": 12.39,
+        "FLT_TOT_1": 14280.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2519,
+          42.3594
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Podgorica",
+        "IATA": "TGD",
+        "STATE_NAME": "Montenegro",
+        "YEAR": 2024,
+        "co2": 12.56,
+        "FLT_TOT_1": 10323.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2019,
+        "co2": 156.67,
+        "FLT_TOT_1": 150434.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2020,
+        "co2": 45.03,
+        "FLT_TOT_1": 50051.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2021,
+        "co2": 51.75,
+        "FLT_TOT_1": 56540.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2022,
+        "co2": 92.18,
+        "FLT_TOT_1": 96061.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2023,
+        "co2": 121.89,
+        "FLT_TOT_1": 113581.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.264,
+          50.1008
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Prague",
+        "IATA": "PRG",
+        "STATE_NAME": "Czech Republic",
+        "YEAR": 2024,
+        "co2": 122.62,
+        "FLT_TOT_1": 83981.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2019,
+        "co2": 63.41,
+        "FLT_TOT_1": 86646.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2020,
+        "co2": 23.96,
+        "FLT_TOT_1": 35174.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2021,
+        "co2": 29.06,
+        "FLT_TOT_1": 38285.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2022,
+        "co2": 43.82,
+        "FLT_TOT_1": 54625.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2023,
+        "co2": 55.0,
+        "FLT_TOT_1": 61079.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.9718,
+          56.9236
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Riga",
+        "IATA": "RIX",
+        "STATE_NAME": "Latvia",
+        "YEAR": 2024,
+        "co2": 54.79,
+        "FLT_TOT_1": 39008.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2019,
+        "co2": 462.73,
+        "FLT_TOT_1": 309783.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2020,
+        "co2": 131.5,
+        "FLT_TOT_1": 103416.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2021,
+        "co2": 133.64,
+        "FLT_TOT_1": 113991.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2022,
+        "co2": 277.68,
+        "FLT_TOT_1": 212555.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2023,
+        "co2": 366.89,
+        "FLT_TOT_1": 266510.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2389,
+          41.8003
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Rome Fiumicino",
+        "IATA": "FCO",
+        "STATE_NAME": "Italy",
+        "YEAR": 2024,
+        "co2": 366.89,
+        "FLT_TOT_1": 197463.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2019,
+        "co2": 10.29,
+        "FLT_TOT_1": 12918.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2020,
+        "co2": 3.0,
+        "FLT_TOT_1": 5383.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2021,
+        "co2": 7.58,
+        "FLT_TOT_1": 10681.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2022,
+        "co2": 11.29,
+        "FLT_TOT_1": 14772.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2023,
+        "co2": 10.72,
+        "FLT_TOT_1": 13347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3315,
+          43.8246
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sarajevo",
+        "IATA": "SJJ",
+        "STATE_NAME": "Bosnia and Herzegovina",
+        "YEAR": 2024,
+        "co2": 10.92,
+        "FLT_TOT_1": 11253.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2019,
+        "co2": 19.13,
+        "FLT_TOT_1": 18845.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2020,
+        "co2": 7.89,
+        "FLT_TOT_1": 8250.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2021,
+        "co2": 11.79,
+        "FLT_TOT_1": 13327.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2022,
+        "co2": 16.77,
+        "FLT_TOT_1": 16958.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2023,
+        "co2": 21.61,
+        "FLT_TOT_1": 21503.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.6219,
+          41.9616
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Skopje",
+        "IATA": "SKP",
+        "STATE_NAME": "Republic of North Macedonia",
+        "YEAR": 2024,
+        "co2": 21.97,
+        "FLT_TOT_1": 14486.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2019,
+        "co2": 62.14,
+        "FLT_TOT_1": 60266.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2020,
+        "co2": 38.88,
+        "FLT_TOT_1": 34984.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2021,
+        "co2": 41.3,
+        "FLT_TOT_1": 39888.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2022,
+        "co2": 51.87,
+        "FLT_TOT_1": 52974.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2023,
+        "co2": 60.01,
+        "FLT_TOT_1": 59897.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.4058,
+          42.6952
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Sofia",
+        "IATA": "SOF",
+        "STATE_NAME": "Bulgaria",
+        "YEAR": 2024,
+        "co2": 60.79,
+        "FLT_TOT_1": 39382.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2019,
+        "co2": 251.84,
+        "FLT_TOT_1": 233007.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2020,
+        "co2": 85.66,
+        "FLT_TOT_1": 86081.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2021,
+        "co2": 84.62,
+        "FLT_TOT_1": 91016.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2022,
+        "co2": 172.94,
+        "FLT_TOT_1": 170407.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2023,
+        "co2": 197.27,
+        "FLT_TOT_1": 189280.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9186,
+          59.6519
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Stockholm Arlanda",
+        "IATA": "ARN",
+        "STATE_NAME": "Sweden",
+        "YEAR": 2024,
+        "co2": 198.65,
+        "FLT_TOT_1": 114530.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2019,
+        "co2": 27.36,
+        "FLT_TOT_1": 43904.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2020,
+        "co2": 10.96,
+        "FLT_TOT_1": 19186.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2021,
+        "co2": 15.38,
+        "FLT_TOT_1": 22877.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2022,
+        "co2": 23.59,
+        "FLT_TOT_1": 34121.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2023,
+        "co2": 23.13,
+        "FLT_TOT_1": 34347.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8328,
+          59.4133
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tallinn",
+        "IATA": "TLL",
+        "STATE_NAME": "Estonia",
+        "YEAR": 2024,
+        "co2": 22.99,
+        "FLT_TOT_1": 23569.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2019,
+        "co2": 42.87,
+        "FLT_TOT_1": 36165.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2020,
+        "co2": 14.76,
+        "FLT_TOT_1": 10880.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2021,
+        "co2": 24.74,
+        "FLT_TOT_1": 21280.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2022,
+        "co2": 33.79,
+        "FLT_TOT_1": 28892.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2023,
+        "co2": 36.98,
+        "FLT_TOT_1": 34451.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.9547,
+          41.6692
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tbilisi",
+        "IATA": "TBS",
+        "STATE_NAME": "Georgia",
+        "YEAR": 2024,
+        "co2": 37.76,
+        "FLT_TOT_1": 29000.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2019,
+        "co2": 198.13,
+        "FLT_TOT_1": 166767.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2020,
+        "co2": 61.32,
+        "FLT_TOT_1": 54119.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2021,
+        "co2": 69.44,
+        "FLT_TOT_1": 74950.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2022,
+        "co2": 141.52,
+        "FLT_TOT_1": 143779.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2023,
+        "co2": 163.45,
+        "FLT_TOT_1": 152331.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8866,
+          32.0075
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tel Aviv",
+        "IATA": "TLV",
+        "STATE_NAME": "Israel",
+        "YEAR": 2024,
+        "co2": 165.47,
+        "FLT_TOT_1": 71864.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2019,
+        "co2": 28.11,
+        "FLT_TOT_1": 28500.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2020,
+        "co2": 13.96,
+        "FLT_TOT_1": 15288.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2021,
+        "co2": 40.67,
+        "FLT_TOT_1": 26190.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2022,
+        "co2": 51.73,
+        "FLT_TOT_1": 38602.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2023,
+        "co2": 54.52,
+        "FLT_TOT_1": 50811.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.7206,
+          41.4147
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Tirana",
+        "IATA": "TIA",
+        "STATE_NAME": "Albania",
+        "YEAR": 2024,
+        "co2": 57.47,
+        "FLT_TOT_1": 43491.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2019,
+        "co2": 318.61,
+        "FLT_TOT_1": 281716.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2020,
+        "co2": 114.43,
+        "FLT_TOT_1": 108129.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2021,
+        "co2": 143.03,
+        "FLT_TOT_1": 127842.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2022,
+        "co2": 240.12,
+        "FLT_TOT_1": 204430.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2023,
+        "co2": 261.86,
+        "FLT_TOT_1": 235281.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.5697,
+          48.1103
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vienna",
+        "IATA": "VIE",
+        "STATE_NAME": "Austria",
+        "YEAR": 2024,
+        "co2": 263.95,
+        "FLT_TOT_1": 155895.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2019,
+        "co2": 41.71,
+        "FLT_TOT_1": 46775.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2020,
+        "co2": 17.3,
+        "FLT_TOT_1": 20351.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2021,
+        "co2": 21.51,
+        "FLT_TOT_1": 23714.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2022,
+        "co2": 32.38,
+        "FLT_TOT_1": 36034.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2023,
+        "co2": 33.38,
+        "FLT_TOT_1": 38025.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.2799,
+          54.6341
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Vilnius",
+        "IATA": "VNO",
+        "STATE_NAME": "Lithuania",
+        "YEAR": 2024,
+        "co2": 33.35,
+        "FLT_TOT_1": 24948.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2019,
+        "co2": 178.83,
+        "FLT_TOT_1": 194160.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2020,
+        "co2": 67.57,
+        "FLT_TOT_1": 79844.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2021,
+        "co2": 81.76,
+        "FLT_TOT_1": 94666.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2022,
+        "co2": 135.83,
+        "FLT_TOT_1": 144737.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2023,
+        "co2": 165.66,
+        "FLT_TOT_1": 165434.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.967,
+          52.1657
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Warsaw Chopin",
+        "IATA": "WAW",
+        "STATE_NAME": "Poland",
+        "YEAR": 2024,
+        "co2": 166.82,
+        "FLT_TOT_1": 113006.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2019,
+        "co2": 31.05,
+        "FLT_TOT_1": 25556.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2020,
+        "co2": 11.53,
+        "FLT_TOT_1": 9373.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2021,
+        "co2": 23.16,
+        "FLT_TOT_1": 19439.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2022,
+        "co2": 35.43,
+        "FLT_TOT_1": 34550.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2023,
+        "co2": 50.63,
+        "FLT_TOT_1": 43282.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.3956,
+          40.1473
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Yerevan",
+        "IATA": "EVN",
+        "STATE_NAME": "Armenia",
+        "YEAR": 2024,
+        "co2": 51.53,
+        "FLT_TOT_1": 24999.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2019,
+        "co2": 31.91,
+        "FLT_TOT_1": 44307.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2020,
+        "co2": 12.57,
+        "FLT_TOT_1": 21278.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2021,
+        "co2": 17.83,
+        "FLT_TOT_1": 28952.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2022,
+        "co2": 29.96,
+        "FLT_TOT_1": 41716.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2023,
+        "co2": 34.33,
+        "FLT_TOT_1": 45319.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.0688,
+          45.7429
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zagreb",
+        "IATA": "ZAG",
+        "STATE_NAME": "Croatia",
+        "YEAR": 2024,
+        "co2": 34.6,
+        "FLT_TOT_1": 30336.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2019,
+        "co2": 330.62,
+        "FLT_TOT_1": 269223.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2020,
+        "co2": 118.65,
+        "FLT_TOT_1": 105370.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2021,
+        "co2": 140.46,
+        "FLT_TOT_1": 125694.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2022,
+        "co2": 244.2,
+        "FLT_TOT_1": 211112.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2023,
+        "co2": 299.19,
+        "FLT_TOT_1": 243029.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5492,
+          47.4647
+        ]
+      },
+      "properties": {
+        "APT_NAME": "Zurich",
+        "IATA": "ZRH",
+        "STATE_NAME": "Switzerland",
+        "YEAR": 2024,
+        "co2": 299.78,
+        "FLT_TOT_1": 158457.0
+      }
+    }
+  ]
+}
